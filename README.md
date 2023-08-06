@@ -54,6 +54,7 @@ INSTRUCTIONS:
 4. `decrypt.py` 📥: Decrypts an encrypted message using the PRIVATE KEY and the "cb_rsa" system.
 
 (Note 📌 => You can custome `db_BASE.json` by adding chars 👌😏)
+
 <br/>
 
 ## EXAMPLE 🌐
