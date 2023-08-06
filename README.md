@@ -28,7 +28,7 @@ Therefore, my decision to employ shorter numbers is a compromise between securit
 
 INSTRUCTIONS:
 
-1. Run `db_mixer.py` to mix the character scheme saved in `db_BASE.json`.
+1. Run `db_mixer.py` to mix the chars scheme saved in `db_BASE.json`.
 
 2. Run `keygen.py` and save the PUBLIC KEY and PRIVATE KEY.
 
